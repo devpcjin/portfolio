@@ -1,4 +1,4 @@
-# 박철진 포트폴리오
+# 박철진 Portfolio
 | 캐치 프레이즈
 
 ## 📌Intro
@@ -24,5 +24,5 @@ H2 | MySQL | Spring Security | Thymeleaf | AWS S3 | AWS CodeDeploy | Nginx | JQu
 기술스택:</br>
 Python | Flask | MongoDB | Naver Map API | Kakao Place API </br>
 AWS EC2 | AWS Elastic Bean Stalk | JQuery | Javascript | HTML5 | CSS3 </br></br>
-[프로젝트 상세설명]()참고
+[프로젝트 상세설명](https://github.com/devpcjin/Cracker-Python)참고
 ---
