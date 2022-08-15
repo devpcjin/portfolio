@@ -32,5 +32,6 @@ AWS EC2 | AWS Elastic Bean Stalk | JQuery | Javascript | HTML5 | CSS3 </br></br>
 기술스택:</br>
 C++ | Python 3.6.9 | ROS melodic | UDP | NMEA GPGGA(GNGGA) | Google Map API  </br>
 Tensorflow Lite | Opencv 4.5 | PHP | HTML5 | CSS3 </br></br>
+캡스톤 디자인 졸업작품전 **대상 수상**</br></br>
 [프로젝트 상세설명](https://github.com/devpcjin/Capstone-Design-Graduation-Project)참고
 ---
